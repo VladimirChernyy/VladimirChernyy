@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vladimir and am a Python developer.    
+My name is Vladimir and I'm a Python developer.    
 
 ![](https://img.shields.io/badge/PYTHON-red)
 ![](https://img.shields.io/badge/Django-red)
